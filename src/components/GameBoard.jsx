@@ -2,6 +2,10 @@
 
 
 const GameBoard = ({onSelectSquare, board}) => {
+<<<<<<< HEAD
+=======
+  
+>>>>>>> ad31e0a2c1a86fb5d0e1a1da2e345f35674b40e9
 
   return (
     <ol id="game-board">
